@@ -1,0 +1,31 @@
+ body{
+	background: ADB887;
+	font-family: 'Roboto', sans-serif;
+}
+
+.main_container{
+	width: 800px;
+	height: 1200px;
+	margin: 10px auto;
+	background: white;
+	padding: 60px;
+}	
+
+h1, h2, h3 {
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 16px;
+	line-height: 2 em;
+}
+
+#img1 {
+	border-radius: 100%;
+}
+	
+div.cvtext {
+	text-align: left;
+}
+
+
